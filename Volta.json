@@ -113,7 +113,6 @@
             "balance": "1",
             "builtin": {
                 "name": "alt_bn128_add",
-                "activate_at": "0",
                 "pricing": {
                     "0": {
                         "price": { "alt_bn128_const_operations": { "price": 500 }}
@@ -129,7 +128,6 @@
             "balance": "1",
             "builtin": {
                 "name": "alt_bn128_mul",
-                "activate_at": "0",
                 "pricing": {
                     "0": {
                         "price": { "alt_bn128_const_operations": { "price": 40000 }}
@@ -145,7 +143,6 @@
             "balance": "1",
             "builtin": {
                 "name": "alt_bn128_pairing",
-                "activate_at": "0",
                 "pricing": {
                     "0": {
                         "price": { "alt_bn128_pairing": { "base": 100000, "pair": 80000 }}
